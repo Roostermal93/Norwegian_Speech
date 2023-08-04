@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "be7787c7-616f-44be-b6d0-690c0ef5c6d2",
+            "collectionId": "Norwegian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Speech/be7787c7-616f-44be-b6d0-690c0ef5c6d2/be7787c7-616f-44be-b6d0-690c0ef5c6d2_no_Male.mp4"
+        },
+        {
+            "id": "d9760d2c-530d-4ccd-bb86-5ca2c8414b6d",
+            "collectionId": "Norwegian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Speech/d9760d2c-530d-4ccd-bb86-5ca2c8414b6d/d9760d2c-530d-4ccd-bb86-5ca2c8414b6d_no_Female.mp4"
+        },
+        {
+            "id": "6d227932-74d3-40eb-9302-d716a3ea5be9",
+            "collectionId": "Norwegian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Speech/6d227932-74d3-40eb-9302-d716a3ea5be9/6d227932-74d3-40eb-9302-d716a3ea5be9_no_Male.mp4"
+        }
+    ]
+}
