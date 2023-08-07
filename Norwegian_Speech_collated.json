@@ -1,5 +1,5 @@
 {
-    "count": 3,
+    "count": 7,
     "next": null,
     "previous": null,
     "results": [
@@ -11,11 +11,39 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Norwegian/be7787c7-616f-44be-b6d0-690c0ef5c6d2_no_Male.mp4"
         },
         {
+            "id": "b2102d96-08c9-467b-b5ff-1454a7b676a8",
+            "collectionId": "Norwegian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Norwegian/b2102d96-08c9-467b-b5ff-1454a7b676a8_no_Male.mp4"
+        },
+        {
             "id": "d9760d2c-530d-4ccd-bb86-5ca2c8414b6d",
             "collectionId": "Norwegian",
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Norwegian/d9760d2c-530d-4ccd-bb86-5ca2c8414b6d_no_Female.mp4"
+        },
+        {
+            "id": "2a8ccbd5-0f78-43d0-86d6-97f060ceac75",
+            "collectionId": "Norwegian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Norwegian/2a8ccbd5-0f78-43d0-86d6-97f060ceac75_no_Male.mp4"
+        },
+        {
+            "id": "3eee3133-55cd-44cc-88ca-205e4cb96b8b",
+            "collectionId": "Norwegian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Norwegian/3eee3133-55cd-44cc-88ca-205e4cb96b8b_no_Female.mp4"
+        },
+        {
+            "id": "06d48c1a-6a0a-43d7-a856-9be10acb189a",
+            "collectionId": "Norwegian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Norwegian/06d48c1a-6a0a-43d7-a856-9be10acb189a_no_Female.mp4"
         },
         {
             "id": "6d227932-74d3-40eb-9302-d716a3ea5be9",
